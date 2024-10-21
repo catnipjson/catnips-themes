@@ -32,19 +32,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#F4831B",
+      "#64C329",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#F4831B",
+      "#64C329",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#F4831B",
+      "#64C329",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#F4831B",
+      "#64C329",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -56,11 +56,11 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#A36026",
+      "#64C329",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#A36026",
+      "#64C329",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -84,15 +84,15 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#F4831B",
+      "#64C329",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#F4831B",
+      "#64C329",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#F4831B",
+      "#64C329",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -157,7 +157,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#F4831B",
+      "#64C329",
       "#ffffff"
     ]
   },
@@ -167,7 +167,7 @@
     "PRIMARY_200": "#ffffff",
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#A6A6A6",
-    "PRIMARY_400": "#F4831B",
+    "PRIMARY_400": "#64C329",
     "PRIMARY_500": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
@@ -178,23 +178,23 @@
     "PLUM_10": "#828490",
     "PLUM_11": "#000000",
     "PLUM_13": "#C8752D",
-    "PLUM_15": "#F4831B",
+    "PLUM_15": "#64C329",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
     "BRAND_260": "#FFFFFF",
-    "BRAND_500": "#F4831B",
-    "BRAND_560": "#F4831B",
+    "BRAND_500": "#64C329",
+    "BRAND_560": "#64C329",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#F4831B",
-  "YELLOW_260": "#F4831B14",
+    "YELLOW_300": "#64C329",
+  "YELLOW_260": "#64C32914",
     "GREEN_600": "#ffffff",
-    "DANGER": "#F4831B",
+    "DANGER": "#64C329",
     "RED": "#848484",
-    "RED_400": "#F4831B"
+    "RED_400": "#64C329"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
