@@ -1,0 +1,206 @@
+{
+  "name": "SpookGreen",
+  "description": "Get into that spooky feeling with a freshly painted green pumpkin!",
+  "color": "#64C329",
+    "spec": "2",
+  "authors": [
+    {
+      "name": "catnip.json",
+      "id": "980160393093730395"
+    }
+  ],
+  "plus": {
+       "version": 0,
+       "mentionLineColor": "#64C329",
+       "iconpack": "rosiecord-plumpy"
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#C3C3C3",
+      "#ffffff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#F4831B",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F4831B",
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F4831B",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#F4831B",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#A36026",
+      "#ffffff"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#A36026",
+      "#ffffff"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#272c35",
+      "#ffffff"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#111317",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F4831B",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#F4831B",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#F4831B",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#5E5E5E",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#5E5E5E",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#333333",
+      "#ffffff"
+    ],
+     "BG_SURFACE_OVERLAY_TMP": [
+      "#000000",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#333333",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#ffffff"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#D5D5D5",
+      "#ffffff"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#708EC0",
+      "#ffffff"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#ffffff"
+    ],
+    "CHANNEL_ICON": [
+      "#F4831B",
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#000000",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#A6A6A6",
+    "PRIMARY_400": "#F4831B",
+    "PRIMARY_500": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#050505",
+    "PLUM_1": "#000000",
+    "PLUM_10": "#828490",
+    "PLUM_11": "#000000",
+    "PLUM_13": "#C8752D",
+    "PLUM_15": "#F4831B",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "BRAND_260": "#FFFFFF",
+    "BRAND_500": "#F4831B",
+    "BRAND_560": "#F4831B",
+    "BRAND_900": "#ffffff",
+    "BRAND": "#8a94a8",
+    "YELLOW_300": "#F4831B",
+  "YELLOW_260": "#F4831B14",
+    "GREEN_600": "#ffffff",
+    "DANGER": "#F4831B",
+    "RED": "#848484",
+    "RED_400": "#F4831B"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#8E8E8E"
+},
+     "background": {
+      "blur": 0.3,
+        "url": "https://github.com/user-attachments/assets/1178a229-1aaa-46e5-ba58-b95d9e488fcb"
+  }
+}
