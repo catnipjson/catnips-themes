@@ -111,6 +111,10 @@
       "#333333",
       "#ffffff"
     ],
+     "BG_SURFACE_OVERLAY_TMP": [
+      "#000000",
+      "#ffffff"
+    ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
       "transparent"
